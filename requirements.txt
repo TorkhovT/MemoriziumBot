@@ -1,0 +1,6 @@
+aiogram==3.6.0
+emojis==0.7.0
+Pillow==9.5.0
+pydantic==2.7.1
+pydantic_settings==2.2.1
+SQLAlchemy==2.0.30
